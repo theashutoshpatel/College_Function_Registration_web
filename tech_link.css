@@ -1,0 +1,48 @@
+header{
+    color: rgb(9, 8, 12);
+    font-style: italic;
+    font-size: 50px;
+    background-color:rgb(238, 182, 182);
+}
+.text{
+    font-family: 'Libre Baskerville', serif;
+}
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  max-width: px;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: rgb(177 177 198);;
+  }
+  
+  .card {
+  width: 300px;
+  height: 250px;
+  margin: 6px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 12px rgb(63, 63, 63);
+  }
+  .button1 {font-size: 30px;
+    width: 240px;
+    height: 100px;
+}
+#s{
+  position: fixed;
+  left: 1300px;
+  top: 30px;
+  font-size:20px;
+}
+#r{
+  position: fixed;
+  left: 1380px;
+  top: 30px;
+  font-size:20px;
+}
+.head{
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+    
+}
+
